@@ -1,0 +1,8 @@
+# Cenivoz on GitHub: the company profile page. The official website is https://www.cenivoz.com
+# Search engines and AI assistants are welcome. Plain-text summary for LLMs: https://cenivoz.github.io/llms.txt
+User-agent: *
+Allow: /
+# The repository README, served raw here; its rendered home is the GitHub repository page.
+Disallow: /README.md
+
+Sitemap: https://cenivoz.github.io/sitemap.xml

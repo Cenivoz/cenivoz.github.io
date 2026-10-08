@@ -1,0 +1,38 @@
+# Cenivoz
+
+> Cenivoz makes a voice AI interviewer for auto dealers across the US and Canada. Every applicant is invited to a spoken first interview, taken by phone or in a web browser at an hour they pick, and the dealership's managers receive scores, a hiring recommendation, a transcript and the audio. People at the dealership make every hiring decision.
+
+This file belongs to the Cenivoz profile page on GitHub (https://cenivoz.github.io/). The official website is https://www.cenivoz.com, which keeps its own, fuller guide for AI assistants at https://www.cenivoz.com/llms.txt.
+
+## Facts
+
+- Category: voice AI interviewing and applicant screening, sold as browser-based software.
+- Made for: franchise and independent car dealers, multi-store groups, and their service, parts and body-shop teams.
+- Countries: United States and Canada.
+- The interview: spoken, roughly 15 minutes long, held in English or Spanish. By phone (the interviewer calls at the slot the applicant picked) or in any web browser, any hour of any day.
+- Jobs covered: technicians, service advisors, salespeople, BDC agents, parts staff, body-shop techs, finance managers and office staff, with other jobs on request.
+- Report per interview: an overall score, five sub-scores (Communication, Technical, Problem Solving, Confidence, Behavior), a hiring recommendation ranging from Strong Hire down to No Hire, strengths, concerns, a transcript and the audio.
+- Connections: signed webhooks and a REST API for applicant tracking systems, careers sites and dealer management systems, or the Cenivoz web panel for teams without one.
+- Data: US-hosted on AWS, encrypted in transit, kept apart for each dealership, never used for AI training and never sold.
+- Pricing: monthly, per store, quoted rather than published; most dealers try it first in a 30-day pilot.
+- Contact: hello@cenivoz.com, +1 (765) 302-2223.
+
+## What Cenivoz does not do
+
+- It does not choose who gets the job: its recommendation is advice, and managers make the call.
+- It does not talk pay or promise anyone a job: those questions go back to the dealership's team.
+- It does not ask about or score protected characteristics: questions and scoring stick to the job.
+- It does not train AI models on customer or applicant data, and does not sell that data.
+- It does not advertise openings or hunt for candidates: it interviews the applicants a dealership already gets.
+- It does not need an app: applicants use a phone or a browser, and the dealer's team works in the browser too.
+
+## Links
+
+- [Cenivoz website](https://www.cenivoz.com/): home page and product overview
+- [Book a demo](https://www.cenivoz.com/book): ask the team for a live walkthrough
+- [Sample interview](https://www.cenivoz.com/sample-interview): a full recorded interview, with the transcript
+- [Features](https://www.cenivoz.com/features): each capability explained in depth
+- [Built for automotive](https://www.cenivoz.com/automotive): dealership departments and the roles it covers
+- [Interviews by role](https://www.cenivoz.com/hire): examples for technicians, advisors, sales and more
+- [Security and fairness](https://www.cenivoz.com/security): how applicant data is protected
+- [API documentation](https://www.cenivoz.com/developers): endpoints, webhooks and a sandbox for developers
